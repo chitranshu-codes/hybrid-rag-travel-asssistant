@@ -46,8 +46,8 @@ You must have active accounts and API keys for:
 ### 2\. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
-cd <your-repo-name>
+git clone https://github.com/chitranshu-codes/hybrid-rag-travel-asssistant.git
+cd hybrid-rag-travel-asssistant
 ```
 
 ### 3\. Set Up Virtual Environment
