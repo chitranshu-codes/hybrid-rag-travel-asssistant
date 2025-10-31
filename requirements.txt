@@ -1,0 +1,11 @@
+pinecone
+neo4j
+sentence-transformers
+torch
+aiohttp
+tqdm
+pyvis
+networkx
+python-dotenv
+google-generativeai
+nest_asyncio
